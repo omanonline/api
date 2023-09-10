@@ -1,0 +1,49 @@
+{
+    "Information": {
+        "Name": "Senior Blockchain",
+        "Brand": "Senior",
+        "Description": "Senior Blockchain LLC",
+        "Url": "https://seniorblockchain.io/",
+        "Logo": "https://omanonline.org/businesses/logos/10000.svg",
+        "Instagram": "https://www.instagram.com/seniorblockchain/",
+        "X": "https://www.twitter.com/seniorblock/",
+        "Facebook": "https://www.facebook.com/seniorblockchain/",
+        "Linkedin": "https://www.linkedin.com/in/seniorblockchain/",
+        "TelegramChannel": "https://www.t.me/seniorblockchain/",
+        "Color": "#0ac18e"
+    },
+    "Gallery": {
+        "Images": [
+            {
+                "Image1": "https://omanonline.org/businesses/images/Image1.jpeg",
+                "Caption1":"image 1"
+            }
+        ]
+    },
+    "Address": {
+        "Addresses": [
+            {
+                "Address1": "Oman"
+            }
+        ],
+        "Locations": [
+            {
+                "Location1": "23.803673, 57.567395"
+            }
+        ]
+    },
+    "Contact": {
+        "Call": [
+            {
+                "Phone1": "+968"
+            }
+        ],
+        "Message": [
+            {
+                "Whatsapp": "+968",
+                "Telegram": "https://t.me/seniorblockchain_io",
+                "Email":"info@seniorblockchain.io"
+            }
+        ]
+    }
+}
