@@ -4,6 +4,9 @@
         "name": "Sample Business",
         "brand": "Sample Brand",
         "description": "This is a sample business description.",
+        "country": "Oman",
+        "province": "Muscat",
+        "city": "Muscat",
         "url": "https://www.samplebusiness.com",
         "logo": "https://omanonline.org/businesses/logos/10000/logo.svg",
         "social_media": {
