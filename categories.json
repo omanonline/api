@@ -1,0 +1,388 @@
+{
+   "categories": [
+      {
+         "id": 1,
+         "name": "Restaurants and Cafes",
+         "subcategories": [
+            {
+               "id": 101,
+               "name": "Fine Dining"
+            },
+            {
+               "id": 102,
+               "name": "Fast Food"
+            },
+            {
+               "id": 103,
+               "name": "Coffee Shops"
+            },
+            {
+               "id": 104,
+               "name": "Food Trucks"
+            },
+            {
+               "id": 105,
+               "name": "Pizzerias"
+            },
+            {
+               "id": 106,
+               "name": "Bakeries"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Retail",
+         "subcategories": [
+            {
+               "id": 201,
+               "name": "Clothing Stores"
+            },
+            {
+               "id": 202,
+               "name": "Electronics Shops"
+            },
+            {
+               "id": 203,
+               "name": "Bookstores"
+            },
+            {
+               "id": 204,
+               "name": "Grocery Stores"
+            },
+            {
+               "id": 205,
+               "name": "Furniture Stores"
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "name": "Health and Wellness",
+         "subcategories": [
+            {
+               "id": 301,
+               "name": "Gyms and Fitness Centers"
+            },
+            {
+               "id": 302,
+               "name": "Yoga Studios"
+            },
+            {
+               "id": 303,
+               "name": "Spa and Wellness Centers"
+            },
+            {
+               "id": 304,
+               "name": "Medical Clinics"
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "name": "Professional Services",
+         "subcategories": [
+            {
+               "id": 401,
+               "name": "Law Firms"
+            },
+            {
+               "id": 402,
+               "name": "Accounting Firms"
+            },
+            {
+               "id": 403,
+               "name": "Marketing Agencies"
+            },
+            {
+               "id": 404,
+               "name": "Consulting Services"
+            }
+         ]
+      },
+      {
+         "id": 5,
+         "name": "Entertainment",
+         "subcategories": [
+            {
+               "id": 501,
+               "name": "Movie Theaters"
+            },
+            {
+               "id": 502,
+               "name": "Bowling Alleys"
+            },
+            {
+               "id": 503,
+               "name": "Amusement Parks"
+            },
+            {
+               "id": 504,
+               "name": "Nightclubs"
+            }
+         ]
+      },
+      {
+         "id": 6,
+         "name": "Automotive",
+         "subcategories": [
+            {
+               "id": 601,
+               "name": "Car Dealerships"
+            },
+            {
+               "id": 602,
+               "name": "Auto Repair Shops"
+            },
+            {
+               "id": 603,
+               "name": "Gas Stations"
+            }
+         ]
+      },
+      {
+         "id": 7,
+         "name": "Technology and Electronics",
+         "subcategories": [
+            {
+               "id": 701,
+               "name": "Computer Stores"
+            },
+            {
+               "id": 702,
+               "name": "Mobile Phone Shops"
+            },
+            {
+               "id": 703,
+               "name": "Electronics Repair"
+            }
+         ]
+      },
+      {
+         "id": 8,
+         "name": "Hospitality and Accommodation",
+         "subcategories": [
+            {
+               "id": 801,
+               "name": "Hotels"
+            },
+            {
+               "id": 802,
+               "name": "Bed and Breakfasts"
+            },
+            {
+               "id": 803,
+               "name": "Vacation Rentals"
+            }
+         ]
+      },
+      {
+         "id": 9,
+         "name": "Arts and Culture",
+         "subcategories": [
+            {
+               "id": 901,
+               "name": "Art Galleries"
+            },
+            {
+               "id": 902,
+               "name": "Museums"
+            },
+            {
+               "id": 903,
+               "name": "Theaters"
+            }
+         ]
+      },
+      {
+         "id": 10,
+         "name": "Education and Training",
+         "subcategories": [
+            {
+               "id": 1001,
+               "name": "Schools and Colleges"
+            },
+            {
+               "id": 1002,
+               "name": "Tutoring Services"
+            },
+            {
+               "id": 1003,
+               "name": "Language Schools"
+            }
+         ]
+      },
+      {
+         "id": 11,
+         "name": "Home and Garden",
+         "subcategories": [
+            {
+               "id": 1101,
+               "name": "Home Improvement Stores"
+            },
+            {
+               "id": 1102,
+               "name": "Gardening Centers"
+            },
+            {
+               "id": 1103,
+               "name": "Appliance Stores"
+            }
+         ]
+      },
+      {
+         "id": 12,
+         "name": "Finance and Banking",
+         "subcategories": [
+            {
+               "id": 1201,
+               "name": "Banks"
+            },
+            {
+               "id": 1202,
+               "name": "Credit Unions"
+            },
+            {
+               "id": 1203,
+               "name": "Investment Firms"
+            }
+         ]
+      },
+      {
+         "id": 13,
+         "name": "Transportation and Logistics",
+         "subcategories": [
+            {
+               "id": 1301,
+               "name": "Taxi Services"
+            },
+            {
+               "id": 1302,
+               "name": "Courier Services"
+            },
+            {
+               "id": 1303,
+               "name": "Moving Companies"
+            }
+         ]
+      },
+      {
+         "id": 14,
+         "name": "Food and Beverage",
+         "subcategories": [
+            {
+               "id": 1401,
+               "name": "Breweries"
+            },
+            {
+               "id": 1402,
+               "name": "Wineries"
+            },
+            {
+               "id": 1403,
+               "name": "Distilleries"
+            }
+         ]
+      },
+      {
+         "id": 15,
+         "name": "Pet Services",
+         "subcategories": [
+            {
+               "id": 1501,
+               "name": "Pet Stores"
+            },
+            {
+               "id": 1502,
+               "name": "Veterinary Clinics"
+            },
+            {
+               "id": 1503,
+               "name": "Pet Grooming"
+            }
+         ]
+      },
+      {
+         "id": 16,
+         "name": "Travel and Tourism",
+         "subcategories": [
+            {
+               "id": 1601,
+               "name": "Travel Agencies"
+            },
+            {
+               "id": 1602,
+               "name": "Tour Operators"
+            }
+         ]
+      },
+      {
+         "id": 17,
+         "name": "Real Estate",
+         "subcategories": [
+            {
+               "id": 1701,
+               "name": "Real Estate Agencies"
+            },
+            {
+               "id": 1702,
+               "name": "Property Management"
+            }
+         ]
+      },
+      {
+         "id": 18,
+         "name": "Sports and Recreation",
+         "subcategories": [
+            {
+               "id": 1801,
+               "name": "Sports Complexes"
+            },
+            {
+               "id": 1802,
+               "name": "Golf Courses"
+            },
+            {
+               "id": 1803,
+               "name": "Sports Clubs"
+            }
+         ]
+      },
+      {
+         "id": 19,
+         "name": "Environmental and Green Businesses",
+         "subcategories": [
+            {
+               "id": 1901,
+               "name": "Eco-friendly Retailers"
+            },
+            {
+               "id": 1902,
+               "name": "Solar Energy Installers"
+            },
+            {
+               "id": 1903,
+               "name": "Recycling Centers"
+            }
+         ]
+      },
+      {
+         "id": 20,
+         "name": "Miscellaneous",
+         "subcategories": [
+            {
+               "id": 2001,
+               "name": "Convenience Stores"
+            },
+            {
+               "id": 2002,
+               "name": "Gas Stations"
+            },
+            {
+               "id": 2003,
+               "name": "Laundromats"
+            }
+         ]
+      }
+   ]
+}
