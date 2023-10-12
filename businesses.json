@@ -2,6 +2,7 @@
    "businesses": [
      {
        "id": 10000,
+       "username": "samplebusiness",
        "name": "Fancy Bistro",
        "category_id": 1,  
        "subcategory_id": 101,  
@@ -15,7 +16,7 @@
        "longitude": -122.987654,
        "logo": "https://omanonline.org/businesses/logos/10000.svg"
      }
-     
+
       
    ]
  }
