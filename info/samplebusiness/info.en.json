@@ -1,100 +1,100 @@
 {
-  "information": {
-    "username": "samplebusiness",
-    "name": "عينة الأعمال",
-    "brand": "علامة تجارية عينة",
-    "description": "هذه هي وصف عينة الأعمال.",
-    "country": "عُمان",
-    "province": "مسقط",
-    "city": "مسقط",
-    "url": "https://www.samplebusiness.com",
-    "logo": "https://omanonline.org/businesses/logos/10000/logo.svg",
-    "social_media": {
-      "instagram": "https://www.instagram.com/samplebusiness/",
-      "twitter": "https://www.twitter.com/samplebusiness/",
-      "facebook": "https://www.facebook.com/samplebusiness/",
-      "linkedin": "https://www.linkedin.com/in/samplebusiness/",
-      "telegram_channel": "https://www.t.me/samplebusiness/"
-    },
-    "color": "#FF5733",
-    "organisation_color": {
-      "color1": "#FF5733",
-      "color2": "#FF5733",
-      "color3": "#FF5733",
-      "color4": "#FF5733"
-    },
-    "gallery": {
-      "images": [
-        {
-          "image": "https://omanonline.org/businesses/images/10000/Image1.jpeg",
-          "caption": "صورة 1"
+    "information": {
+        "username": "samplebusiness",
+        "name": "Sample Business",
+        "brand": "Sample Brand",
+        "description": "This is a sample business description.",
+        "country": "Oman",
+        "province": "Muscat",
+        "city": "Muscat",
+        "url": "https://www.samplebusiness.com",
+        "logo": "https://omanonline.org/businesses/logos/10000/logo.svg",
+        "social_media": {
+            "instagram": "https://www.instagram.com/samplebusiness/",
+            "twitter": "https://www.twitter.com/samplebusiness/",
+            "facebook": "https://www.facebook.com/samplebusiness/",
+            "linkedin": "https://www.linkedin.com/in/samplebusiness/",
+            "telegram_channel": "https://www.t.me/samplebusiness/"
         },
-        {
-          "image": "https://omanonline.org/businesses/images/10000/Image1.jpeg",
-          "caption": "صورة 2"
-        }
-      ]
-    },
-    "address": {
-      "addresses": [
-        {
-          "address": "شارع الرئيسي 123، قرية العينة"
+        "color": "#FF5733",
+        "organisation_color": {
+            "color1": "#FF5733",
+            "color2": "#FF5733",
+            "color3": "#FF5733",
+            "color4": "#FF5733"
         },
-        {
-          "address": "شارع ثانوي 456، مدينة العينة"
-        }
-      ],
-      "locations": [
-        {
-          "location": "40.7128, -74.0060"
+        "gallery": {
+            "images": [
+                {
+                    "image": "https://omanonline.org/businesses/images/10000/Image1.jpeg",
+                    "caption": "Image 1"
+                },
+                {
+                    "image": "https://omanonline.org/businesses/images/10000/Image1.jpeg",
+                    "caption": "Image 2"
+                }
+            ]
         },
-        {
-          "location": "41.8781, -87.6298"
-        }
-      ]
-    },
-    "contact": {
-      "call": [
-        {
-          "phone": "+1 (123) 456-7890"
+        "address": {
+            "addresses": [
+                {
+                    "address": "123 Main Street, Sampleville"
+                },
+                {
+                    "address": "456 Secondary Street, Sampletown"
+                }
+            ],
+            "locations": [
+                {
+                    "location": "40.7128, -74.0060"
+                },
+                {
+                    "location": "41.8781, -87.6298"
+                }
+            ]
         },
-        {
-          "phone": "+1 (987) 654-3210"
-        }
-      ],
-      "message": {
-        "whatsapp": "+1 (123) 456-7890",
-        "telegram": "https://t.me/samplebusiness_support",
-        "email": "info@samplebusiness.com"
-      }
-    },
-    "operating_hours": {
-      "regular": "الاثنين - الجمعة: 9:00 ص - 6:00 م",
-      "special": "السبت - الأحد: مغلق"
-    },
-    "services": [
-      "الخدمة 1",
-      "الخدمة 2",
-      "الخدمة 3"
-    ],
-    "reviews": {
-      "average_rating": "4.5",
-      "total_reviews": "100",
-      "recent_reviews": [
-        {
-          "rating": "5",
-          "comment": "خدمة رائعة وموظفون ودودون!",
-          "date": "2023-10-05"
+        "contact": {
+            "call": [
+                {
+                    "phone": "+1 (123) 456-7890"
+                },
+                {
+                    "phone": "+1 (987) 654-3210"
+                }
+            ],
+            "message": {
+                "whatsapp": "+1 (123) 456-7890",
+                "telegram": "https://t.me/samplebusiness_support",
+                "email": "info@samplebusiness.com"
+            }
         },
-        {
-          "rating": "4",
-          "comment": "تجربة جيدة، سأوصي بها.",
-          "date": "2023-09-25"
+        "operating_hours": {
+            "regular": "Mon-Fri: 9:00 AM - 6:00 PM",
+            "special": "Sat-Sun: Closed"
+        },
+        "services": [
+            "Service 1",
+            "Service 2",
+            "Service 3"
+        ],
+        "reviews": {
+            "average_rating": "4.5",
+            "total_reviews": "100",
+            "recent_reviews": [
+                {
+                    "rating": "5",
+                    "comment": "Great service and friendly staff!",
+                    "date": "2023-10-05"
+                },
+                {
+                    "rating": "4",
+                    "comment": "Good experience, would recommend.",
+                    "date": "2023-09-25"
+                }
+            ]
+        },
+        "additional_information": {
+            "website_terms": "Please read our terms and conditions on our website."
         }
-      ]
-    },
-    "additional_information": {
-      "website_terms": "الرجاء قراءة شروطنا وأحكامنا على موقعنا على الويب."
     }
-  }
 }
