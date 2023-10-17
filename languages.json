@@ -1,0 +1,15 @@
+{
+    "languages": [
+      {
+        "name": "English",
+        "direction": "LTR",
+        "culture": "en-US"
+      },
+      {
+        "name": "Arabic",
+        "direction": "RTL",
+        "culture": "ar-OM"
+      }
+    ]
+  }
+  
