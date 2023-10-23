@@ -2,7 +2,7 @@
   "businesses": [
     {
       "id": 10000,
-      "username": "samplebusiness333",
+      "username": "samplebusiness",
       "name": "Fancy Bistro",
       "categoryId": 1,
       "subcategoryId": 101,
@@ -20,7 +20,7 @@
     },
     {
       "id": 10001,
-      "username": "samplebusiness2",
+      "username": "seniorblockchain",
       "name": "name 2",
       "categoryId": 2,
       "subcategoryId": 201,
