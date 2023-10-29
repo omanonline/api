@@ -3,6 +3,8 @@
     "username": "samplebusiness1",
     "name": "Sample Business 1",
     "brand": "Sample Brand",
+    "categoryId": 1,
+    "subcategoryId": 101,
     "description": "This is a sample business description.",
     "country": "Oman",
     "province": "Muscat",

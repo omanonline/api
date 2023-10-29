@@ -2,6 +2,8 @@
   "information": {
     "username": "samplebusiness3",
     "name": "Sample Business 3",
+    "categoryId": 3,
+    "subcategoryId": 301,
     "brand": "Sample Brand",
     "description": "This is a sample business description.",
     "country": "Oman",
