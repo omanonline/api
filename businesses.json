@@ -16,7 +16,7 @@
       "email": "info@fancybistroexample.com",
       "openingHours": "Mon-Sun: 5:00 PM - 10:00 PM",
       "place": 0,
-      "logo": "https://omanonline.org/businesses/info/samplebusiness/images/logo/logo.svg"
+      "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
     },
     {
       "id": 10001,
@@ -34,7 +34,7 @@
       "email": "info@fancybistroexample.com",
       "openingHours": "Mon-Sun: 5:00 PM - 10:00 PM",
       "place": 0,
-      "logo": "https://omanonline.org/businesses/info/samplebusiness/images/logo/logo.svg"
+      "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
     },
     {
       "id": 10002,
@@ -52,7 +52,7 @@
       "email": "info@fancybistroexample.com",
       "openingHours": "Mon-Sun: 5:00 PM - 10:00 PM",
       "place": 0,
-      "logo": "https://omanonline.org/businesses/info/samplebusiness/images/logo/logo.svg"
+      "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
     }
   ]
 }

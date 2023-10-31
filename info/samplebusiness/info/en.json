@@ -8,7 +8,7 @@
     "province": "Muscat",
     "city": "Muscat",
     "url": "https://www.samplebusiness.com",
-    "logo": "https://omanonline.org/businesses/info/samplebusiness/images/logo/logo.svg",
+    "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
     "social_media": {
       "instagram": "https://www.instagram.com/samplebusiness/",
       "twitter": "https://www.twitter.com/samplebusiness/",
@@ -26,11 +26,11 @@
     "gallery": {
       "images": [
         {
-          "image": "https://omanonline.org/businesses/info/samplebusiness/images/gallery/Image1.jpeg",
+          "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
           "caption": "Image 1"
         },
         {
-          "image": "https://omanonline.org/businesses/info/samplebusiness/images/gallery/Image1.jpeg",
+          "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
           "caption": "Image 2"
         }
       ]
