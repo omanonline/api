@@ -4,10 +4,10 @@
   "name": "Senior Blockchain",
   "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
   "symbols": {
-    "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
-    "icon": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
-    "logomotion": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
-    "favicon": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
+    "logo": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
+    "icon": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
+    "logomotion": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
+    "favicon": "https://omanonline.org/api/info/sbc/images/logo/logo.svg"
   },
   "organisationcolors": [
     {
@@ -60,16 +60,16 @@
     {
       "name": "Blockchain Programming",
       "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
-      "image": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
+      "image": "https://omanonline.org/api/info/sbc/images/logo/logo.svg"
     }
   ],
   "gallery": [
     {
-      "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
+      "image": "https://omanonline.org/api/info/sbc/images/gallery/Image1.jpeg",
       "caption": "image1"
     },
     {
-      "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
+      "image": "https://omanonline.org/api/info/sbc/images/gallery/Image1.jpeg",
       "caption": "image2"
     }
   ],
