@@ -1,100 +1,102 @@
 {
-  "information": {
-    "username": "samplebusiness",
-    "name": "عينة الأعمال",
-    "brand": "علامة تجارية عينة",
-    "description": "هذه هي وصف عينة الأعمال.",
-    "country": "عُمان",
-    "province": "مسقط",
-    "city": "مسقط",
-    "url": "https://www.samplebusiness.com",
+  "id": "7d49b53d-e0c3-48a9-af5f-458cd84a2a5f",
+  "username": "sbc",
+  "name": "Senior Blockchain",
+  "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
+  "symbols": {
     "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
-    "social_media": {
-      "instagram": "https://www.instagram.com/samplebusiness/",
-      "twitter": "https://www.twitter.com/samplebusiness/",
-      "facebook": "https://www.facebook.com/samplebusiness/",
-      "linkedin": "https://www.linkedin.com/in/samplebusiness/",
-      "telegram_channel": "https://www.t.me/samplebusiness/"
-    },
-    "color": "#FF5733",
-    "organisation_color": {
-      "color1": "#FF5733",
-      "color2": "#FF5733",
-      "color3": "#FF5733",
-      "color4": "#FF5733"
-    },
-    "gallery": {
-      "images": [
-        {
-          "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
-          "caption": "صورة 1"
-        },
-        {
-          "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
-          "caption": "صورة 2"
-        }
-      ]
-    },
-    "address": {
-      "addresses": [
-        {
-          "address": "شارع الرئيسي 123، قرية العينة"
-        },
-        {
-          "address": "شارع ثانوي 456، مدينة العينة"
-        }
-      ],
-      "locations": [
-        {
-          "location": "40.7128, -74.0060"
-        },
-        {
-          "location": "41.8781, -87.6298"
-        }
-      ]
-    },
-    "contact": {
-      "call": [
-        {
-          "phone": "+1 (123) 456-7890"
-        },
-        {
-          "phone": "+1 (987) 654-3210"
-        }
-      ],
-      "message": {
-        "whatsapp": "+1 (123) 456-7890",
-        "telegram": "https://t.me/samplebusiness_support",
-        "email": "info@samplebusiness.com"
-      }
-    },
-    "operating_hours": {
-      "regular": "الاثنين - الجمعة: 9:00 ص - 6:00 م",
-      "special": "السبت - الأحد: مغلق"
-    },
-    "services": [
-      "الخدمة 1",
-      "الخدمة 2",
-      "الخدمة 3"
-    ],
-    "reviews": {
-      "average_rating": "4.5",
-      "total_reviews": "100",
-      "recent_reviews": [
-        {
-          "rating": "5",
-          "comment": "خدمة رائعة وموظفون ودودون!",
-          "date": "2023-10-05"
-        },
-        {
-          "rating": "4",
-          "comment": "تجربة جيدة، سأوصي بها.",
-          "date": "2023-09-25"
-        }
-      ]
-    },
-    "additional_information": {
-      "website_terms": "الرجاء قراءة شروطنا وأحكامنا على موقعنا على الويب."
+    "icon": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
+    "logomotion": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
+    "favicon": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
+  },
+  "organisationcolors": [
+    {
+      "code": "#ffffff",
+      "description": "white color"
     }
-  }
+  ],
+  "categories": [
+    "b46e645c-9084-420e-854a-c23409220e7d"
+  ],
+  "subcategories": [
+    "2ef29610-0319-4e29-a748-d68762952e6d"
+  ],
+  "addresses": [
+    {
+      "title": "Main Office",
+      "country": "Oman",
+      "province": "Muscat",
+      "city": "Muscat",
+      "address": "AlMawaleh",
+      "lat": "23",
+      "long": "24"
+    }
+  ],
+  "phones": [
+    {
+      "title": "HR",
+      "phonenumber": "0096891200634"
+    }
+  ],
+  "emails": [
+    {
+      "title": "info",
+      "emailaddress": "info@sbc.om"
+    }
+  ],
+  "links": [
+    {
+      "title": "Senior Blockchain Website",
+      "address": "https://sbc.om"
+    }
+  ],
+  "socialmedias": [
+    {
+      "title": "instagram",
+      "link": "https://instagram.com/seniorblockchain"
+    }
+  ],
+  "services": [
+    {
+      "name": "Blockchain Programming",
+      "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
+      "image": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
+      "caption": "image1"
+    },
+    {
+      "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
+      "caption": "image2"
+    }
+  ],
+  "openinghours": {
+    "Monday": "9:00 - 18:00",
+    "Tuesday": "9:00 - 18:00",
+    "Wednesday": "9:00 - 18:00",
+    "Thursday": "9:00 - 18:00",
+    "Friday": "9:00 - 18:00",
+    "Saturday": "9:00 - 18:00",
+    "Sunday": "9:00 - 18:00"
+  },
+  "vision": "At Senior Blockchain, our vision is to become a global leader in the blockchain industry by fostering a culture of innovation, collaboration, and transparency. We envision a future where businesses seamlessly integrate blockchain technology into their operations, enhancing efficiency, security, and trust among stakeholders. By creating a decentralized investment platform, we aspire to bridge the gap between traditional finance and the emerging digital economy, promoting financial inclusion and driving sustainable growth for all.",
+  "mission": "Our mission at Senior Blockchain is to revolutionize the way businesses operate by harnessing the power of blockchain technology. We strive to create innovative, scalable, and secure solutions tailored to the needs of all enterprises. Our goal is to democratize access to investment opportunities in projects and ideas, empowering people from all around the world to contribute and benefit from the growth of the blockchain ecosystem.",
+  "value": "At Senior Blockchain, our core value is to empower individuals and businesses by leveraging blockchain technology to create innovative, secure, and scalable solutions. We are dedicated to fostering a culture of innovation, collaboration, and transparency, enabling seamless integration of blockchain into operations to enhance efficiency and trust. With a strong commitment to inclusivity and financial inclusion, we bridge the gap between traditional finance and the emerging digital economy, aiming to drive sustainable growth for all stakeholders. Our unwavering focus on security and sustainability ensures that our solutions are robust and have a positive impact on both the blockchain ecosystem and the broader global economy, reinforcing our position as a global leader in the blockchain industry.",
+  "languages": [
+    {
+      "title": "English",
+      "direction": "ltr",
+      "culture": "en-US"
+    },
+    {
+      "title": "Arabic",
+      "direction": "rtl",
+      "culture": "ar-OM"
+    }
+  ],
+  "place": 0,
+  "hasstar": true
 }

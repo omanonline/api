@@ -1,53 +1,51 @@
-{
-  "categories": [
-    {
-      "id": "b46e645c-9084-420e-854a-c23409220e7d",
-      "title": "Technology and Electronics",
-      "slug": "technology-and-electronics",
-      "subcategories": [
-        {
-          "id": "a185f9dc-5a51-48cf-8bdd-bcf42092e0a0",
-          "title": "Mobile App Development",
-          "slug": "mobile-app-development"
-        },
-        {
-          "id": "2ef29610-0319-4e29-a748-d68762952e6d",
-          "title": "Software Development",
-          "slug": "software-development"
-        },
-        {
-          "id": "273e7208-bfc0-4990-add7-57f2f932a2b9",
-          "title": "UI/UX Design",
-          "slug": "ui-ux-design"
-        },
-        {
-          "id": "0ea67e78-e86b-48a1-856b-84126bd671c6",
-          "title": "E-commerce Development",
-          "slug": "e-commerce-development"
-        }
-      ]
-    },
-    {
-      "id": "0936b725-2698-4cd5-80a4-abc03f40d8f9",
-      "title": "Legal Services",
-      "slug": "legal-services",
-      "subcategories": [
-        {
-          "id": "6e74ab7b-e00e-43da-b70f-24229fd57f71",
-          "title": "Immigration and Visas",
-          "slug": "immigration-and-visas"
-        },
-        {
-          "id": "0dd10162-f433-44af-a6f4-ae8c6f39ac75",
-          "title": "Residency and Citizenship",
-          "slug": "residency-and-citizenship"
-        },
-        {
-          "id": "31a80d14-652a-4ebd-9839-869c5ecccbfd",
-          "title": "Migration Consultancy",
-          "slug": "migration-consultancy"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "b46e645c-9084-420e-854a-c23409220e7d",
+    "title": "Technology and Electronics",
+    "slug": "technology-and-electronics",
+    "subcategories": [
+      {
+        "id": "a185f9dc-5a51-48cf-8bdd-bcf42092e0a0",
+        "title": "Mobile App Development",
+        "slug": "mobile-app-development"
+      },
+      {
+        "id": "2ef29610-0319-4e29-a748-d68762952e6d",
+        "title": "Software Development",
+        "slug": "software-development"
+      },
+      {
+        "id": "273e7208-bfc0-4990-add7-57f2f932a2b9",
+        "title": "UI/UX Design",
+        "slug": "ui-ux-design"
+      },
+      {
+        "id": "0ea67e78-e86b-48a1-856b-84126bd671c6",
+        "title": "E-commerce Development",
+        "slug": "e-commerce-development"
+      }
+    ]
+  },
+  {
+    "id": "0936b725-2698-4cd5-80a4-abc03f40d8f9",
+    "title": "Legal Services",
+    "slug": "legal-services",
+    "subcategories": [
+      {
+        "id": "6e74ab7b-e00e-43da-b70f-24229fd57f71",
+        "title": "Immigration and Visas",
+        "slug": "immigration-and-visas"
+      },
+      {
+        "id": "0dd10162-f433-44af-a6f4-ae8c6f39ac75",
+        "title": "Residency and Citizenship",
+        "slug": "residency-and-citizenship"
+      },
+      {
+        "id": "31a80d14-652a-4ebd-9839-869c5ecccbfd",
+        "title": "Migration Consultancy",
+        "slug": "migration-consultancy"
+      }
+    ]
+  }
+]

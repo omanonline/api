@@ -1,92 +1,102 @@
 {
-  "information": {
-    "username": "samplebusiness3",
-    "name": "Sample Business 3",
-    "categoryId": 3,
-    "subcategoryId": 301,
-    "brand": "Sample Brand",
-    "description": "This is a sample business description.",
-    "country": "Oman",
-    "province": "Muscat",
-    "city": "Muscat",
-    "url": "https://www.samplebusiness.com",
+  "id": "7d49b53d-e0c3-48a9-af5f-458cd84a2a5f",
+  "username": "sbc",
+  "name": "Senior Blockchain",
+  "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
+  "symbols": {
     "logo": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
-    "social_media": {
-      "instagram": "https://www.instagram.com/samplebusiness/",
-      "twitter": "https://www.twitter.com/samplebusiness/",
-      "facebook": "https://www.facebook.com/samplebusiness/",
-      "linkedin": "https://www.linkedin.com/in/samplebusiness/",
-      "telegram_channel": "https://www.t.me/samplebusiness/"
+    "icon": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
+    "logomotion": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg",
+    "favicon": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
+  },
+  "organisationcolors": [
+    {
+      "code": "#ffffff",
+      "description": "white color"
+    }
+  ],
+  "categories": [
+    "b46e645c-9084-420e-854a-c23409220e7d"
+  ],
+  "subcategories": [
+    "2ef29610-0319-4e29-a748-d68762952e6d"
+  ],
+  "addresses": [
+    {
+      "title": "Main Office",
+      "country": "Oman",
+      "province": "Muscat",
+      "city": "Muscat",
+      "address": "AlMawaleh",
+      "lat": "23",
+      "long": "24"
+    }
+  ],
+  "phones": [
+    {
+      "title": "HR",
+      "phonenumber": "0096891200634"
+    }
+  ],
+  "emails": [
+    {
+      "title": "info",
+      "emailaddress": "info@sbc.om"
+    }
+  ],
+  "links": [
+    {
+      "title": "Senior Blockchain Website",
+      "address": "https://sbc.om"
+    }
+  ],
+  "socialmedias": [
+    {
+      "title": "instagram",
+      "link": "https://instagram.com/seniorblockchain"
+    }
+  ],
+  "services": [
+    {
+      "name": "Blockchain Programming",
+      "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
+      "image": "https://omanonline.org/api/info/samplebusiness/images/logo/logo.svg"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
+      "caption": "image1"
     },
-    "color": "#FF5733",
-    "organisation_color": {
-      "color1": "#FF5733",
-      "color2": "#FF5733",
-      "color3": "#FF5733",
-      "color4": "#FF5733"
+    {
+      "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
+      "caption": "image2"
+    }
+  ],
+  "openinghours": {
+    "Monday": "9:00 - 18:00",
+    "Tuesday": "9:00 - 18:00",
+    "Wednesday": "9:00 - 18:00",
+    "Thursday": "9:00 - 18:00",
+    "Friday": "9:00 - 18:00",
+    "Saturday": "9:00 - 18:00",
+    "Sunday": "9:00 - 18:00"
+  },
+  "vision": "At Senior Blockchain, our vision is to become a global leader in the blockchain industry by fostering a culture of innovation, collaboration, and transparency. We envision a future where businesses seamlessly integrate blockchain technology into their operations, enhancing efficiency, security, and trust among stakeholders. By creating a decentralized investment platform, we aspire to bridge the gap between traditional finance and the emerging digital economy, promoting financial inclusion and driving sustainable growth for all.",
+  "mission": "Our mission at Senior Blockchain is to revolutionize the way businesses operate by harnessing the power of blockchain technology. We strive to create innovative, scalable, and secure solutions tailored to the needs of all enterprises. Our goal is to democratize access to investment opportunities in projects and ideas, empowering people from all around the world to contribute and benefit from the growth of the blockchain ecosystem.",
+  "value": "At Senior Blockchain, our core value is to empower individuals and businesses by leveraging blockchain technology to create innovative, secure, and scalable solutions. We are dedicated to fostering a culture of innovation, collaboration, and transparency, enabling seamless integration of blockchain into operations to enhance efficiency and trust. With a strong commitment to inclusivity and financial inclusion, we bridge the gap between traditional finance and the emerging digital economy, aiming to drive sustainable growth for all stakeholders. Our unwavering focus on security and sustainability ensures that our solutions are robust and have a positive impact on both the blockchain ecosystem and the broader global economy, reinforcing our position as a global leader in the blockchain industry.",
+  "languages": [
+    {
+      "title": "English",
+      "direction": "ltr",
+      "culture": "en-US"
     },
-    "gallery": {
-      "images": [
-        {
-          "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
-          "caption": "Image 1"
-        },
-        {
-          "image": "https://omanonline.org/api/info/samplebusiness/images/gallery/Image1.jpeg",
-          "caption": "Image 2"
-        }
-      ]
-    },
-    "address": {
-      "addresses": [
-        {
-          "address": "123 Main Street, Sampleville"
-        },
-        {
-          "address": "456 Secondary Street, Sampletown"
-        }
-      ],
-      "locations": [
-        {
-          "location": "40.7128, -74.0060"
-        },
-        {
-          "location": "41.8781, -87.6298"
-        }
-      ]
-    },
-    "contact": {
-      "call": [
-        {
-          "phone": "+1 (123) 456-7890"
-        },
-        {
-          "phone": "+1 (987) 654-3210"
-        }
-      ],
-      "message": {
-        "whatsapp": "+1 (123) 456-7890",
-        "telegram": "https://t.me/samplebusiness_support",
-        "email": "info@samplebusiness.com"
-      }
-    },
-    "operating_hours": {
-      "regular": "Mon-Fri: 9:00 AM - 6:00 PM",
-      "special": "Sat-Sun: Closed"
-    },
-    "services": [
-      {
-        "name": "Service 1",
-        "description": "Service 1 is our flagship offering, designed to cater to the specific needs of our customers. Whether you're looking for expert consultation or top-notch products, Service 1 has you covered. Our team of professionals will ensure you receive the best solutions tailored to your requirements."
-      },
-      {
-        "name": "Service 2",
-        "description": "Service 2 is all about convenience and efficiency. We understand that your time is precious, and that's why we offer Service 2 to simplify your life. From quick deliveries to hassle-free transactions, we've got you covered with Service 2."
-      },
-      {
-        "name": "Service 3",
-        "description": "Service 3 is the epitome of quality and craftsmanship. If you demand the highest standards in your products and services, look no further. Service 3 is known for its attention to detail and commitment to excellence. We guarantee your satisfaction with Service 3."
-      }
-    ]
-  }
+    {
+      "title": "Arabic",
+      "direction": "rtl",
+      "culture": "ar-OM"
+    }
+  ],
+  "place": 0,
+  "hasstar": true
 }
