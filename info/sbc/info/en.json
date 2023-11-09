@@ -21,7 +21,7 @@
         "address": "AlMawaleh",
         "lat": "23.614363124397453",
         "long": "58.24695354581923",
-        "embed":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1827.848406100051!2d58.245107082825996!3d23.615204035206105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e8dfd8c8e51dc47%3A0x81bb4284a29ffc9e!2sSUKOON%20STODIU%20FLAT!5e0!3m2!1sen!2som!4v1699537179061!5m2!1sen!2som"
+        "map":"https://maps.google.com/maps?q=23.614363124397453,58.24695354581923&z=15&output=embed"
       },
       "phones": [
         {
