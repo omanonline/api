@@ -3,18 +3,6 @@
   "username": "sbc",
   "name": "Senior Blockchain",
   "description": "As a Senior Blockchain Company specializing in Blockchain Programming, we provide tailored solutions that leverage blockchain technology for businesses and organizations. Our services encompass the development of custom blockchain applications, smart contracts, and integration with existing systems. We assist clients across various industries, including supply chain management, finance, healthcare, and more, ensuring security, scalability, and regulatory compliance. Our expertise extends to optimizing performance, offering ongoing support, and staying at the forefront of blockchain innovation, enabling our clients to harness the benefits of decentralized, transparent, and secure digital transactions.",
-  "symbols": {
-    "logo": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
-    "icon": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
-    "logomotion": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
-    "favicon": "https://omanonline.org/api/info/sbc/images/logo/logo.svg"
-  },
-  "organisationcolors": [
-    {
-      "code": "#ffffff",
-      "description": "white color"
-    }
-  ],
   "categories": [
     "b46e645c-9084-420e-854a-c23409220e7d"
   ],
@@ -24,16 +12,14 @@
   "contact": [
     {
       "title": "Main Office",
-      "address":  
-        {
-          "country": "Oman",
-          "province": "Muscat",
-          "city": "Muscat",
-          "address": "AlMawaleh",
-          "lat": "23",
-          "long": "24"
-        }
-      ,
+      "address": {
+        "country": "Oman",
+        "province": "Muscat",
+        "city": "Muscat",
+        "address": "AlMawaleh",
+        "lat": "23",
+        "long": "24"
+      },
       "phones": [
         {
           "title": "IT Department",
@@ -69,6 +55,23 @@
       }
     }
   ],
+  "brandbook": {
+    "symbols": {
+      "logo": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
+      "icon": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
+      "logomotion": "https://omanonline.org/api/info/sbc/images/logo/logo.svg",
+      "favicon": "https://omanonline.org/api/info/sbc/images/logo/logo.svg"
+    },
+    "organisationcolors": [
+      {
+        "code": "#ffffff",
+        "description": "white color"
+      }
+    ],
+    "vision": "At Senior Blockchain, our vision is to become a global leader in the blockchain industry by fostering a culture of innovation, collaboration, and transparency. We envision a future where businesses seamlessly integrate blockchain technology into their operations, enhancing efficiency, security, and trust among stakeholders. By creating a decentralized investment platform, we aspire to bridge the gap between traditional finance and the emerging digital economy, promoting financial inclusion and driving sustainable growth for all.",
+    "mission": "Our mission at Senior Blockchain is to revolutionize the way businesses operate by harnessing the power of blockchain technology. We strive to create innovative, scalable, and secure solutions tailored to the needs of all enterprises. Our goal is to democratize access to investment opportunities in projects and ideas, empowering people from all around the world to contribute and benefit from the growth of the blockchain ecosystem.",
+    "value": "At Senior Blockchain, our core value is to empower individuals and businesses by leveraging blockchain technology to create innovative, secure, and scalable solutions. We are dedicated to fostering a culture of innovation, collaboration, and transparency, enabling seamless integration of blockchain into operations to enhance efficiency and trust. With a strong commitment to inclusivity and financial inclusion, we bridge the gap between traditional finance and the emerging digital economy, aiming to drive sustainable growth for all stakeholders. Our unwavering focus on security and sustainability ensures that our solutions are robust and have a positive impact on both the blockchain ecosystem and the broader global economy, reinforcing our position as a global leader in the blockchain industry."
+  },
   "services": [
     {
       "name": "Blockchain Programming",
@@ -86,9 +89,6 @@
       "caption": "image2"
     }
   ],
-  "vision": "At Senior Blockchain, our vision is to become a global leader in the blockchain industry by fostering a culture of innovation, collaboration, and transparency. We envision a future where businesses seamlessly integrate blockchain technology into their operations, enhancing efficiency, security, and trust among stakeholders. By creating a decentralized investment platform, we aspire to bridge the gap between traditional finance and the emerging digital economy, promoting financial inclusion and driving sustainable growth for all.",
-  "mission": "Our mission at Senior Blockchain is to revolutionize the way businesses operate by harnessing the power of blockchain technology. We strive to create innovative, scalable, and secure solutions tailored to the needs of all enterprises. Our goal is to democratize access to investment opportunities in projects and ideas, empowering people from all around the world to contribute and benefit from the growth of the blockchain ecosystem.",
-  "value": "At Senior Blockchain, our core value is to empower individuals and businesses by leveraging blockchain technology to create innovative, secure, and scalable solutions. We are dedicated to fostering a culture of innovation, collaboration, and transparency, enabling seamless integration of blockchain into operations to enhance efficiency and trust. With a strong commitment to inclusivity and financial inclusion, we bridge the gap between traditional finance and the emerging digital economy, aiming to drive sustainable growth for all stakeholders. Our unwavering focus on security and sustainability ensures that our solutions are robust and have a positive impact on both the blockchain ecosystem and the broader global economy, reinforcing our position as a global leader in the blockchain industry.",
   "languages": [
     {
       "title": "English",
