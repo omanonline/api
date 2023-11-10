@@ -66,8 +66,12 @@
     },
     "organisationcolors": [
       {
-        "code": "#ffffff",
-        "description": "white color"
+        "code": "#30b0d5",
+        "description": "This cyan shade is reminiscent of clear skies and calm waters, evoking a sense of tranquility and serenity."
+      },
+      {
+        "code": "#f1f1f1",
+        "description": "This color is commonly associated with simplicity, sophistication, and a clean aesthetic."
       }
     ],
     "vision": "At Senior Blockchain, our vision is to become a global leader in the blockchain industry by fostering a culture of innovation, collaboration, and transparency. We envision a future where businesses seamlessly integrate blockchain technology into their operations, enhancing efficiency, security, and trust among stakeholders. By creating a decentralized investment platform, we aspire to bridge the gap between traditional finance and the emerging digital economy, promoting financial inclusion and driving sustainable growth for all.",
